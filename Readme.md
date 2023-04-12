@@ -11,5 +11,3 @@ Step1 :
 
 Futher Steps :
 * All further steps and codes are described as comments in 'Optimization.ipynb'
-
-<iframe src="https://player.vimeo.com/video/816798154" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
