@@ -12,4 +12,4 @@ Step1 :
 Futher Steps :
 * All further steps and codes are described as comments in 'Optimization.ipynb'
 
-<iframe src="https://player.vimeo.com/video/816798154?h=4c75c42ac2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="576" height="1280" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="screen-20230412-113703.mp4"></iframe>
+<iframe src="https://player.vimeo.com/video/816798154" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
