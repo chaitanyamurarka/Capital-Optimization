@@ -11,5 +11,3 @@ Step1 :
 
 Futher Steps :
 * All further steps and codes are described as comments in 'Optimization.ipynb'
-
-..
